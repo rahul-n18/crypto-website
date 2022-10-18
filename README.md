@@ -1,2 +1,2 @@
 # crypto-website
-simple crypto
+simple crypto built with Html css and JS with API
