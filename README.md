@@ -1,2 +1,0 @@
-# crypto-website
-simple crypto
